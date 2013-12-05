@@ -12,3 +12,5 @@ Copy the concrete5lockpick.php file to the root of your concrete5 installation. 
 WARNING
 -------
 Delete this file immediately after you have reset your password. This file will allow anyone who visits it to change the password for any username on the site. It is _very_ _important_ that you delete this file _immediately_ after use. You have been warned.
+#### Todo
+See [issue tracker](https://github.com/mkly/concrete5-Lockpick/issues)
