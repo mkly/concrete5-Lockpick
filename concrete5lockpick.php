@@ -81,7 +81,7 @@ if ($submit) {
 			}
 			input[type=text]:focus,
 			input[type=password]:focus {
-				border: 1px dashed #20bde8;
+				border: 1px solid #20bde8;
 			}
 			input[type=submit] {
 				float: right;
