@@ -58,9 +58,9 @@ if ($submit) {
 			.change-message {
 				width: 250px;
 				padding: 20px;
-				-webkit-box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 1);
-				-moz-box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 1);
-				box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 1); 
+				-webkit-box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 0.3);
+				-moz-box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 0.3);
+				box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 0.3);
 			}
 			img,
 			form,
@@ -87,7 +87,7 @@ if ($submit) {
 				float: right;
 				margin: 7px;
 				border: 1px solid #aaa;
-				background: #333;
+				background: #20bde8;
 				padding: 5px;
 				color: #fff;
 				-webkit-border-radius: 3px;
@@ -95,13 +95,13 @@ if ($submit) {
 				border-radius: 3px; 
 			}
 			input[type=submit]:hover {
-				-webkit-box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 1);
-				-moz-box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 1);
-				box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 1); 
+				-webkit-box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 0.3);
+				-moz-box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 0.3);
+				box-shadow: 0px 0px 3px 0px rgba(33, 186, 227, 0.3);
 			}
 			input[type=submit]:active {
 				padding: 6px 4px 4px 6px;
-				background: #111;
+				background: #1895b8;
 			}
 		</style>
 	</head>
