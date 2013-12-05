@@ -1,4 +1,4 @@
-C5 Lockpick
+concrete5 Lockpick
 ===========
 
 Description
@@ -7,7 +7,7 @@ Use this file to reset the admin password when locked out of a concrete5 install
 
 Installation & Use
 -------------------
-Copy the c5lockpick.php file to the root of your concrete5 installation. The same location as index.php. Browse to http://www.example.com/c5lockpick.php and enter in the username you wish to change and the new password for that user.
+Copy the concrete5lockpick.php file to the root of your concrete5 installation. The same location as index.php. Browse to http://www.example.com/c5lockpick.php and enter in the username you wish to change and the new password for that user.
 
 WARNING
 -------
