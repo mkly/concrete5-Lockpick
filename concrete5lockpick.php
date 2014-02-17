@@ -121,7 +121,7 @@ if ($submit) {
 			</div>
 		<?php } ?>
 	<?php } else { ?>
-		<form method="post" action="/concrete5lockpick.php">
+		<form method="post" action="concrete5lockpick.php">
 			<label for="admin-username">Username</label>
 			<input type="text" name="admin-username" />
 			<label for="admin-password">New Password</label>
