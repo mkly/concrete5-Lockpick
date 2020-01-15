@@ -12,7 +12,7 @@ Copy the concrete5lockpick.php file to the root of your concrete5 installation. 
 Supported Versions
 ------------------
 Should work from concrete5 version 5.5 up until version 5.7
-Version 8 currently does not work. See issue [#3](https://github.com/mkly/concrete5-Lockpick/issues/4)
+Version 8 currently does not work. See [Concrete5 Super User Recovery](https://github.com/mnakalay/Concrete5-Super-User-recovery)
 
 WARNING
 -------
